@@ -3,7 +3,7 @@ This is a place to join and analyze data related to the Women's Marches. Potenti
 
 **Slack:** [#womens-march](https://datafordemocracy.slack.com/messages/womens-march/)
 
-[**Project Leads:**](https://github.com/Data4Democracy/read-this-first/blob/master/lead-role-description.md) @chris_dick, @margaret
+[**Project Leads:**](https://github.com/Data4Democracy/read-this-first/blob/master/lead-role-description.md) @chris_dick, @nick, @margaret
 
 **Maintainers (people with commit access)**: TBD
 
