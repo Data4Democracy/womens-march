@@ -3,7 +3,7 @@ This is a place to join and analyze data related to the Women's Marches. Potenti
 
 **Slack:** [#womens-march](https://datafordemocracy.slack.com/messages/womens-march/)
 
-[**Project Leads:**](https://github.com/Data4Democracy/read-this-first/blob/master/lead-role-description.md) @mattgawarecki, @jenniferthompson
+[**Project Leads:**](https://github.com/Data4Democracy/read-this-first/blob/master/lead-role-description.md) @chris_dick, @margaret
 
 **Maintainers (people with commit access)**: TBD
 
@@ -61,6 +61,13 @@ If you have questions or you'd like to discuss something on your mind, reach out
 * **RStudio** (for R Markdown/`.Rmd` notebook files)
 
 ## Completed goals
+* **Twitter Data** Pulled streaming Twitter data with hashtags and created S3 output.
+* **Twitter Data from data.world** Downloaded dataset that includes tweets and locations from data.world (https://data.world/wendyhe/tweets-on-womensmarch-and-maga)
+* **Crowd Estimate Data from data.world** Downloaded dataset that includes crowd estimates and latitude longitude for each city from data.world. (https://data.world/carlvlewis/womens-marches-crowd-sizes)
 
 ## To be completed
-
+* **Data prep** Separate twitter data by location or by pro-March/anti-March / pro-Trump/anti-Trump.
+* **Join** Join data by city/lat-long.
+* **Visualize** Visualize data spatially or through tools for text data.
+* **Analyze** NLP on twitter data.
+* **More questions/data** Refine questions/ask more questions and find/pull other datasets.
