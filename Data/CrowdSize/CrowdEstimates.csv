@@ -1,0 +1,628 @@
+City,State,Country,Estimate (low),Estimate (high),Average
+Abilene,TX,US,200,200,200
+Accident,MD,US,54,54,54
+Adak,AK,US,10,10,10
+Adrian,MI,US,,,
+Ajo,AZ,US,,,
+Alamosa,CO,US,350,350,350
+Albany,CA,US,,,
+Albany,NY,US,7000,9000,8000
+Albuquerque,NM,US,3000,20000,11500
+Alpine,TX,US,96,96,96
+Amarillo,TX,US,600,600,600
+Amelia Island,FL,US,700,700,700
+Anacortes,WA,US,,,
+Anchorage,AK,US,2000,3000,2500
+Ann Arbor,MI,US,11000,11000,11000
+Annapolis,MD,US,1600,1600,1600
+Arlington,VA,US,,,
+Asbury Park,NJ,US,6000,6000,6000
+Asheville,NC,US,7000,10000,8500
+Ashland,OR,US,6000,6000,6000
+Aspen,CO,US,1000,1000,1000
+Astoria,OR,US,100,1000,550
+Athens,GA,US,700,5000,2850
+Atlanta,GA,US,60000,60000,60000
+Augusta,GA,US,600,600,600
+Augusta,ME,US,10000,10000,10000
+Austin,TX,US,30000,50000,40000
+Avalon,CA,US,44,44,44
+Bainbridge Island,WA,US,,,
+Baltimore,MD,US,5000,5000,5000
+Bandon,OR,US,70,70,70
+Barrow,AK,US,,,
+Bayfield,WI,US,427,427,427
+Beaumont,TX,US,300,300,300
+Beaver,PA,US,,,
+Bellingham,WA,US,5000,6000,5500
+Bemidji,MN,US,250,500,375
+Bend,OR,US,5000,5000,5000
+Bentonville,AR,US,,,
+Berkeley,CA,US,,,
+Bethel,AK,US,,,
+Bethlehem,PA,US,500,500,500
+Bettendorf,IA,US,800,800,800
+Beverly Hills,CA,US,,,
+Binghamton,NY,US,2000,3000,2500
+Birmingham,AL,US,5000,10000,7500
+Bishop,CA,US,600,600,600
+Bismarck,ND,US,500,500,500
+Black Mountain,NC,US,400,400,400
+Bluff,UT,US,,,
+Bloomsburg,PA,US,,,
+Boise,ID,US,5000,5000,5000
+Borrego Springs,CA,US,,,
+Boston,MA,US,175000,175000,175000
+Bozeman,MT,US,,,
+Breen,CO,US,1,1,1
+Brighton,MI,US,300,300,300
+Brattleboro,VT,US,250,250,250
+Brookings,OR,US,,,
+Brownsville,TX,US,300,300,300
+Brunswick,ME,US,300,300,300
+Buffalo,NY,US,2500,3000,2750
+Burbank,CA,US,300,300,300
+Burns,OR,US,20,20,20
+Burnsville,NC,US,,,
+Canton,NY,US,135,135,135
+Carbondale,CO,US,200,650,425
+Carbondale,IL,US,1000,1000,1000
+Carmel,CA,US,,,
+Casper,WY,US,700,1000,850
+Cedaredge,CO,US,,,
+Champaign,IL,US,5000,5000,5000
+Charleston,SC,US,2000,2000,2000
+Charleston,WV,US,3000,3000,3000
+Charlotte,NC,US,10000,10000,10000
+Charlottesville,VA,US,2500,2500,2500
+Chattanooga,TN,US,1000,3000,2000
+Chelan,WA,US,,,
+Chesapeake Bay,MD,US,1,1,1
+Cheyenne,WY,US,1500,2000,1750
+Chicago,IL,US,250000,250000,250000
+Chico,CA,US,3000,3000,3000
+Chillicothe,OH,US,1000,1000,1000
+Cincinnati,OH,US,5000,10000,7500
+Clare,MI,US,24,24,24
+Clemson,SC,US,500,500,500
+Cleveland,OH,US,15000,15000,15000
+Cobb,CA,US,2,2,2
+Cobbleskill,NY,US,300,300,300
+Cody,WY,US,500,500,500
+College Station,TX,US,,,
+Colorado Springs,CO,US,7000,7000,7000
+Clumbia,MO,US,3000,3604,3302
+Columbia,SC,US,2000,2000,2000
+Columbus,OH,US,,,
+Compton,CA,US,,,
+Concord,NH,US,6000,6000,6000
+Conover,WI,US,1,1,1
+Cooperstown,NY,US,200,200,200
+Coos Bay,OR,US,200,200,200
+Copper Harbor,MI,US,19,19,19
+Cordova,AK,US,,,
+Corpus Christi,TX,US,24,24,24
+Cortez,CO,US,400,504,452
+Corvallis,OR,US,100,100,100
+Crestone,CO,US,1,1,1
+Dallas,TX,US,5000,8000,6500
+Dayton,OH,US,3000,3000,3000
+Daytona Beach,FL,US,100,100,100
+Decorah,IA,US,,,
+Delhi,NY,US,,,
+Deming,NM,US,,,
+Denton,TX,US,2500,2800,2650
+Denver,CO,US,200000,200000,200000
+Des Moines,IA,US,26000,26000,26000
+Detroit,MI,US,4000,4000,4000
+Disability (online),,,,,
+Douglas-Saugatuck,MI,US,1200,2500,1850
+Doylestown,PA,US,1000,1000,1000
+Driggs,ID,US,1000,1000,1000
+Dubuque,IA,US,400,400,400
+Duluth,MN,US,1500,1500,1500
+Durango,CO,US,1000,1000,1000
+Eagle Pass,TX,US,,,
+East Haddam,CT,US,500,500,500
+Eastport,ME,US,70,70,70
+Eastsound,WA,US,,,
+Eau Claire,WI,US,250,250,250
+El Paso,TX,US,1000,1000,1000
+Elgin,IL,US,200,1000,600
+Elkton,OR,US,,,
+Ellsworth,ME,US,60,60,60
+Ely,MN,US,50,50,50
+Ephrata,WA,US,250,250,250
+Erie,PA,US,2500,2500,2500
+Eugene,OR,US,7000,10000,8500
+Eureka,CA,US,2000,80000,41000
+Fairbanks,AK,US,1000,1000,1000
+Fairfield,IA,US,200,200,200
+Fairmont,WY,US,95,95,95
+Falmouth,MA,US,1000,1000,1000
+Fargo,ND,US,1000,3000,2000
+Fayetteville,AR,US,1000,1000,1000
+Fernandina Beach,FL,US,1000,1300,1150
+Flagstaff,AZ,US,1200,1200,1200
+Florence,OR,US,,,
+Floyd,VA,US,200,200,200
+Forks,WA,US,45,45,45
+Fort Wayne,IN,US,1000,1000,1000
+Fort Bragg,CA,US,,,
+Fort Sumner,NM,US,,,
+Fort Worth,TX,US,5000,6000,5500
+Francestown,NH,US,134,134,134
+Frederick,MD,US,1000,1000,1000
+Fredonia,NY,US,,,
+Fresno,CA,US,2000,2000,2000
+Friday Harbor,WA,US,1500,1500,1500
+Gainesville,FL,US,1000,1000,1000
+Galesburg,IL,US,100,100,100
+Gila,NM,US,1,1,1
+Glen Falls,NY,US,1000,1000,1000
+Glenwood Springs,CO,US,100,100,100
+Gold Canyon,AZ,US,,,
+Gouldsboro,ME,US,25,25,25
+Grand Forks,ND,US,304,304,304
+Grand Junction,CO,US,4500,5000,4750
+Grand Rapids,MI,US,300,300,300
+Green Bay,WI,US,200,200,200
+Green Valley,AZ,US,400,400,400
+Greenfield,MA,US,1000,2000,1500
+Greensboro,NC,US,3000,6000,4500
+Greenville,SC,US,2000,2000,2000
+Greenwood,IN,US,,,
+Gross Pointe,MI,US,,,
+Gualala,CA,US,,,
+Gulfport,MS,US,300,300,300
+Gustavus,AK,US,105,105,105
+Haines,AK,US,150,170,160
+Halfway,OR,US,,,
+Harrisburg,PA,US,1100,1100,1100
+Hartford,CT,US,10000,10000,10000
+Hattiesburg,MS,US,,,
+Helena,AR,US,2,2,2
+Helena,MT,US,10000,10000,10000
+Hemet,CA,US,,,
+Hilo,HI,US,1500,2200,1850
+Hillsborough,NC,US,200,200,200
+Homer,AK,US,900,900,900
+Honolulu,HI,US,8000,8000,8000
+Houghton,MI,US,500,500,500
+Houston,TX,US,20000,22000,21000
+Hudson,NY,US,1500,3000,2250
+Idaho Falls,ID,US,500,500,500
+Indiana,PA,US,100,200,150
+Indianapolis,IN,US,4000,10000,7000
+Inverness,CA,US,5,5,5
+Iowa City,IA,US,1000,1000,1000
+Ithaca,NY,US,10000,10000,10000
+Jackson,NH,US,,,
+Jackson,MS,US,750,5000,2875
+Jackson Hole,WY,US,1000,1000,1000
+Jacksonville,FL,US,2000,3000,2500
+Jerome,AZ,US,,,
+Jonesborough ,TN,US,1000,1000,1000
+Joseph,OR,US,310,310,310
+June Lake,CA,US,,,
+Juneau,AK,US,1000,1000,1000
+Kahului,HI,US,,,
+Kalamazoo,MI,US,1000,1000,1000
+Kanab,UT,US,175,175,175
+Kansas City,MO,US,10000,10000,10000
+Kauai,HI,US,2000,2000,2000
+Kawaihae,HI,US,50,50,50
+Keene,NH,US,300,300,300
+Kennbunk,ME,US,700,700,700
+Kent,CT,US,180,180,180
+Kent,OH,US,100,100,100
+Ketchikan,AK,US,150,150,150
+Ketchum,ID,US,1150,1150,1150
+Key West,FL,US,3200,3200,3200
+Killington,VT,US,,,
+King's Beach,CA,US,,,
+Kingston,WA,US,60,60,60
+Klamath Falls,OR,US,300,300,300
+Knoxville,TN,US,2000,2000,2000
+Kodiak,AK,US,,,
+Kona,HI,US,3500,3500,3500
+Kotzebeu,AK,US,,,
+La Crosse,WI,US,,100,50
+La Grande,OR,US,,,
+Lafayette,IN,US,800,1000,900
+Laguna Beach,CA,US,3500,3500,3500
+Lakeside,OH,US,300,300,300
+Lancaster,NH,US,400,400,400
+Lancaster,PA,US,100,100,100
+Lander,WY,US,350,350,350
+Langley,WA,US,1300,1300,1300
+Lansing,MI,US,10000,10000,10000
+Laramie,WY,US,,,
+Las Cruces,NM,US,100,100,100
+Las Vegas,NV,US,5000,15000,10000
+Las Vegas,NM,US,50,50,50
+Leonia,NJ,US,100,100,100
+Lexington,KY,US,5000,5000,5000
+Lewis,NY,US,,,
+Lewisburg,PA,US,150,200,175
+Lihue,HI,US,,,
+Lilly,PA,US,4,4,4
+Lincoln,NE,US,8000,8000,8000
+Little Rock,AR,US,7000,7000,7000
+Logan,UT,US,,,
+Los Angeles,CA,US,50000,750000,400000
+Lompoc,CA,US,,,
+Longview,WA,US,200,200,200
+Longville,MN,US,67,67,67
+Lousville,KY,US,5000,5000,5000
+Loup City,NE,US,150,150,150
+Lubbock,TX,US,350,350,350
+Lubec,ME,US,95,95,95
+Mt. Shasta,CA,US,400,400,400
+Madison,WI,US,75000,10000,42500
+Mankato,MN,US,50,50,50
+Marfa,TX,US,76,76,76
+Martha's Vineyard,MA,US,100,100,100
+Marquette,MI,US,200,800,500
+Marquette,WI,US,200,300,250
+Maryville,IL,US,,,
+Maui,HI,US,1500,2000,1750
+Mayaguez,PR,US,,,
+McMinnville,OR,US,700,100,400
+Melbourn,FL,US,500,500,500
+Memphis,TN,US,9000,9000,9000
+Menomonie,WI,US,,,
+Mentone,AL,US,50,50,50
+Merrill,MI,US,,,
+Miami,FL,US,10000,10000,10000
+Miami Beach,FL,US,,,
+Midland,MI,US,400,400,400
+Midland,TX,US,50,50,50
+Miles City,MT,US,,,
+Milhelm,PA,US,50,50,50
+Milwaukee,WI,US,1000,1000,1000
+Minneapolis,MN,US,,,
+Minocqua,WI,US,300,300,300
+Missoula,MT,US,,,
+Moab,UT,US,200,200,200
+Mobile,AL,US,900,1000,950
+Modesto,CA,US,900,900,900
+Mooresville,NC,US,,,
+Montpelier,VT,US,15000,20000,17500
+Monterey Bay,CA,US,1500,1500,1500
+Morganton,NC,US,500,500,500
+Morris,MN,US,250,250,250
+Moscow,ID,US,2500,2500,2500
+Mount Vernon,OH,US,20,30,25
+Mount Vernon,WA,US,,,
+Murfreesboro,TN,US,,,
+Murray,KY,US,700,700,700
+Nacogdoches,TX,US,200,300,250
+Nantucket,MA,US,,,
+Napa,CA,US,3000,3000,3000
+Naples,FL,US,2500,5000,3750
+Nashville,TN,US,15000,20000,17500
+Nevada City,CA,US,100,100,100
+New Bern,NC,US,300,600,450
+New Haven,CT,US,,,
+New Orleans,LA,US,10000,10000,10000
+New Smyrna Beach,FL,US,1000,1000,1000
+New York,NY,US,400000,500000,450000
+Newark,DE,US,1200,1200,1200
+Newark,NJ,US,1000,1000,1000
+Newport,OR,US,1500,1500,1500
+Nome,AK,US,,,
+Norfolk,VA,US,2000,2000,2000
+Northampton,MA,US,1000,1000,1000
+Oahu,HI,US,3000,5000,4000
+Oakhurst,CA,US,200,200,200
+Oakland,CA,US,60000,100000,80000
+Oak Ridge,TN,US,,,
+Ocala,FL,US,,,
+Ocean City,MD,US,100,100,100
+Ogden,UT,US,200,200,200
+Oklahoma City,OK,US,12000,12000,12000
+Old Saybrook,CT,US,,,
+Olympia,WA,US,10000,10000,10000
+Omaha,NE,US,12000,14000,13000
+Oneonta,NY,US,500,500,500
+Onley,VA,US,50,50,50
+Ontario,CA,US,200,200,200
+Orange County,CA,US,,,
+Orlando,FL,US,3000,3000,3000
+Oxford,MS,US,450,450,450
+Pacifica,CA,US,1200,1200,1200
+Palm Desert,CA,US,1000,1000,1000
+Palm Springs,CA,US,600,600,600
+Palmdale,CA,US,24,24,24
+Palmer,AK,US,,,
+Park City,UT,US,8000,8000,8000
+Panama City,FL,US,500,500,500
+Paoli,IN,US,67,67,67
+Pasadena,CA,US,1700,1700,1700
+Peoria,IL,US,2000,2000,2000
+Pendelton,OR,US,425,425,425
+Pensacola,FL,US,2000,2000,2000
+Pence,WI,US,1,1,1
+Pequannock Township,NJ,US,800,1000,900
+Philadelphia,PA,US,50000,50000,50000
+Phoenix,AZ,US,20000,20000,20000
+Pierre,SD,US,,,
+Pinedale,WY,US,100,100,100
+Pittsburgh,PA,US,25000,25000,25000
+Pittsfield,MA,US,1500,1500,1500
+Plymouth,WI,US,,,
+Pocatello,ID,US,1200,1200,1200
+Port Angeles,WA,US,100,100,100
+Port Jefferson ,NY,US,2000,2000,2000
+Port Jervis,NY,US,,,
+Port Orford,OR,US,300,300,300
+Port Townsend,WA,US,1000,1000,1000
+Portland,ME,US,10000,10000,10000
+Portland,OR,US,70000,100000,85000
+Portsmouth,NH,US,3000,5000,4000
+Poughkeepsie,NY,US,4000,5000,4500
+Prescott,AZ,US,1200,1200,1200
+Providence,RI,US,7000,7000,7000
+Provincetown,MA,US,,,
+Raleigh,NC,US,17000,20000,18500
+Rapid City,SD,US,1000,2000,1500
+Reading,PA,US,,,
+Redding,CA,US,300,300,300
+Redondo Beach,CA,US,1800,1800,1800
+Redwood City,CA,US,2500,2500,2500
+Reno,NV,US,10000,10000,10000
+Richland,WA,US,1000,2500,1750
+Richmond,VA,US,2000,2000,2000
+Ridgecrest,CA,US,,,
+Ridgeway,CO,US,50,50,50
+Riegelsville,PA,US,170,170,170
+Riverside,CA,US,4000,4000,4000
+Roanoke,VA,US,3000,3000,3000
+Rochester,MN,US,600,1000,800
+Rochester,NY,US,1000,2000,1500
+Rockford,IL,US,1000,1000,1000
+Roswell,NM,US,2,2,2
+St. Augustine,FL,US,,,
+St. George,UT,US,1475,1475,1475
+St. John,VA,US,,,
+St. Louis,MO,US,20000,20000,20000
+St. Mary of the Woods,IN,US,,,
+St. Paul/Minneapolis,MN,US,90000,100000,95000
+St. Petersburg,FL,US,20000,20000,20000
+Sacramento,CA,US,20000,20000,20000
+Sag Harbor,NY,US,,,
+Salem,OR,US,1000,2000,1500
+Salem,WI,US,2,2,2
+Salida,CO,US,,,
+Salisbury,CT,US,200,200,200
+Salt Lake City,UT,US,,,
+San Antonio,TX,US,1500,1500,1500
+San Bernardino,CA,US,,,
+San Clemente,CA,US,100,200,150
+San Diego,CA,US,30000,40000,35000
+San Francisco,CA,US,100000,15000,57500
+San Jose ,CA,US,25000,25000,25000
+San Juan ,PR,US,                                                ,,
+San Juan Island,WA,US,1000,1000,1000
+San Leandro,CA,US,,,
+San Luis Obispo,CA,US,10000,10000,10000
+San Marcos,CA,US,1000,1000,1000
+San Rafael,CA,US,500,500,500
+Sanford,ME,US,,,
+Sandpoint,ID,US,800,1000,900
+Sandy,OR,US,,,
+Santa Ana,CA,US,2000,25000,13500
+Santa Barbara,CA,US,2000,6000,4000
+Santa Cruz,CA,US,1000,1500,1250
+Santa Fe,NM,US,10000,17000,13500
+Santa Rosa,CA,US,4300,5000,4650
+Santurce,PR,US,,,
+Sarasota,FL,US,7500,8000,7750
+Saugatuck,MI,US,1700,1700,1700
+Sault Ste Marie,MI,US,40,40,40
+Savannah,GA,US,1000,1000,1000
+Saxaphaw,NC,US,80,80,80
+Seaside,CA,US,,,
+Seattle,WA,US,12000,175000,93500
+Sedona,AZ,US,1000,1000,1000
+Seldovia,AK,US,41,41,41
+Selinsgrove,PA,US,119,119,119
+Seneca Falls,NY,US,10000,10000,10000
+Seward,AK,US,54,54,54
+Sharon,PA,US,700,700,700
+Sheboygan,WI,US,,,
+Show Low,AZ,US,1,1,1
+Shreveport,LA,US,100,100,100
+Sicklerville,NJ,US,,,
+Silver City,NM,US,500,500,500
+Silverton,CO,US,50,50,50
+Sioux Falls,SD,US,3300,3300,3300
+Sitka,AK,US,700,700,700
+Skagway,AK,US,122,122,122
+Skykomish,WA,US,8,8,8
+Soldotna,AK,US,,,
+Sonoma,CA,US,3000,3000,3000
+South Bend,IN,US,2000,2000,2000
+South Lake Tahoe,CA,US,700,700,700
+South Orange,NJ,US,2000,2000,2000
+Spokane,WA,US,8000,8000,8000
+Springfield,MO,US,2000,2000,2000
+Springfield,IL,US,1000,1000,1000
+Steamboat Springs,CO,US,1000,1000,1000
+Stamford,CT,US,5000,5000,5000
+Stanley,ID,US,30,30,30
+State College,PA,US,300,300,300
+Stateline,NV,US,,,
+Statesboro,GA,US,200,200,200
+Staunton,VA,US,100,100,100
+Surry,ME,US,,,
+Syracuse,NY,US,2000,2000,2000
+Tallahassee,FL,US,15000,18000,16500
+Taos,NM,US,100,100,100
+Tecumseh,MI,US,35,35,35
+Telluride,CO,US,1000,1000,1000
+Terre Haute,IN,US,200,200,200
+Tillamook,OR,US,300,300,300
+Toledo,OH,US,,,
+Topeka,KS,US,4000,4000,4000
+Traverse City,MI,US,3000,3000,3000
+Trenton,NJ,US,7500,7500,7500
+Troy,OH,US,,,
+Truth,NM,US,,,
+Tucson,AZ,US,15000,15000,15000
+Tulsa,OK,US,1000,1000,1000
+Twisp,WA,US,800,800,800
+Ukiah,CA,US,2000,2000,2000
+Unalakleet,AK,US,38,38,38
+Union,WA,US,,,
+Utica,NY,US,,,
+Utqagvik,AK,US,22,22,22
+Valdez,AK,US,,,
+Valparaiso,IN,US,260,260,260
+Vancouver,WA,US,200,200,200
+Ventura,CA,US,2500,3000,2750
+Vermillion,SD,US,500,500,500
+Vieques,PR,US,,,
+Vinalhaven,ME,US,,,
+Visalia,CA,US,500,500,500
+Walla Walla,WA,US,2000,2000,2000
+Walnut Creek,CA,US,3000,5000,4000
+Washington,DC,US,500000,680000,590000
+Watertown,NY,US,250,250,250
+Wausau,WI,US,200,200,200
+Welches,OR,US,,,
+Wellfleet,MA,US,113,113,113
+Wenatchee,WA,US,1700,1700,1700
+West Chester,PA,US,150,200,175
+West Jefferson,NC,US,250,300,275
+West Lima,WI,US,1,1,1
+West Palm Beach,FL,US,5000,7000,6000
+Westfield,NJ,US,1000,1000,1000
+Wichita,KS,US,3000,3000,3000
+Wichita Falls,TX,US,150,150,150
+Williamsburg,VA,US,700,1000,850
+Willits,CA,US,50,50,50
+Wilmington,NC,US,3000,3000,3000
+Wilton,NH,US,,,
+Winchester,VA,US,,,
+Winston-Salem,NC,US,1000,1000,1000
+Woodstock,NY,US,400,400,400
+Woodstock,VA,US,600,1000,800
+Wooster,OH,US,,,
+Worcester,MA,US,300,500,400
+Wyckoff,NJ,US,1000,1000,1000
+Yakima,WA,US,1200,1200,1200
+Ypsilanti,MI,US,,,
+Yuma,AZ,US,35,35,35
+Zebulon,GA,US,,,
+Seoul,South Korea,US,1000,1000,1000
+Calgary,Canada,US,4000,4000,4000
+Isle of Eigg,,,21,30,25.5
+London,,UK,100000,100000,100000
+Mexico City,,Mexico,100,500,300
+Ottawa,,Canada,6000,8000,7000
+Tel Aviv,,Israel,200,500,350
+Toronto,,Canada,60000,60000,60000
+Sydney,,Australia,5000,10000,7500
+Melbourne,,Australia,10000,10000,10000
+,,Antarctica,30,30,30
+Copenhagen,,Denmark,5000,5000,5000
+Victoria,,Canada,2500,2500,2500
+Bogota,,Colombia,350,350,350
+New Delhi,,India,,,
+Nairobi,,Kenya,200,200,200
+Cape Town,,South Africa,500,700,600
+Dublin,,Ireland,2000,5000,3500
+Bangkok,,Thailand,,,
+Antigua,,Guatemala,250,250,250
+Rome,,Italy,300,300,300
+Stratford,,Canada,100,100,100
+Montreal,,Canada,5000,5000,5000
+Pristina,,Kosovo,,,
+Vancouver,,Canada,15000,15000,15000
+Canberra,,Australia,1000,1000,1000
+Paris,,France,2000,7000,4500
+Vienna,,Austria,2000,2000,2000
+Stockholm,,Sweden,1000,4000,2500
+Oslo,,Norway,2000,3000,2500
+Tokyo,,Japan,648,648,648
+Dar Es Salaam,,Tanzania,100,100,100
+Auckland,,New Zealand,2000,2000,2000
+Wellington,,New Zealand,600,600,600
+Christchurch,,New Zealand,300,300,300
+Dunedin,,New Zealand,300,300,300
+Edmonton,,Canada,3500,4000,3750
+Amsterdam,,Netherlands,4000,4000,4000
+Athens,,Greece,,,
+Barcelona,,Spain,,,
+Madrid,,Spain,500,500,500
+Florence,,Italy,,,
+Marseilles,,France,,,
+Prague,,Czech Republic,700,700,700
+Tblisi,,Georgia,300,300,300
+Helsinki,,Finland,250,250,250
+Accra,,Ghana,,,
+Erbil,,Iraq,8,8,8
+Lisbon,,Portugal,,,
+Geneva,,Switzerland,2500,2500,2500
+San Jose ,,Costa Rica,,,
+Buenos Aires,,Argentina,200,200,200
+Brasilia,,Brazil,,,
+Edinburgh,,Scotland,3000,8000,5500
+Jos,,Nigeria,,,
+Frankfurt,,Germany,2000,2000,2000
+Bristol,,UK,1000,1000,1000
+Wolfville,,Canada,300,300,300
+Salt Spring Island,,Canada,600,600,600
+Budapest,,Hungary,400,400,400
+Berlin,,Germany,200,1000,600
+Galway,,Ireland,,,
+Bergen,,Norway,,,
+Halfiax,,Canada,1000,1000,1000
+Hamburg,,Germany,700,700,700
+Nosara,,Costa Rica,100,100,100
+Hamilton,,Canada,200,200,200
+Winnipeg,,Canada,1000,3000,2000
+Liverpool,,UK,1000,1000,1000
+Charlottetown,,Canada,200,200,200
+Reykjavik,,Iceland,,,
+London,,Canada,500,1400,950
+San Miguel de Allende,,Mexico,2000,2000,2000
+Rio de Janeiro,,Brazil,40,40,40
+Pender Island,,Canada,40,40,40
+Manutoulin Island,,Canada,1,1,1
+Whitehorse,,Canada,200,200,200
+Munich,,Germany,600,800,700
+Hagatna,,Guam,150,150,150
+The Hague,,The Netherlands,2000,2000,2000
+Singapore,,,50,50,50
+Bangor,,UK,400,400,400
+Mwanza,,Tanzania,19,19,19
+Nanaimo,,Canada,1000,1000,1000
+Kamloops,,Canada,,,
+Saskatoon,,Canada,800,1000,900
+North West River,,Canada,20,20,20
+Whitehorse,,Canada,100,300,200
+Yellowknife,,Canada,100,130,115
+Osaka,,Japan,,,
+Hanoi,,Vietnam,27,27,27
+Kassel,,Germany,100,100,100
+Aachen,,Germany,,,
+Bremerhaven,,Germany,30,30,30
+Huntsville,,Canada,30,30,30
+Lilongwe,,Malawi,,,
+Stavanger,,Norway,,,
+Isla Mujeres,,Mexico,5,5,5
+Cuenca,,Ecuador,20,50,35
+Belfast,,UK,200,300,250
+Castlebar,,Ireland,120,120,120
+Montpelier,,France,500,3000,1750
+Guelph,,Canada,545,545,545
+Lusaka,,Zambia,140,140,140
+Songdo,,South Korea,25,25,25
+Shipley,,UK,1400,1400,1400
+Maadi Degla,,Egypt,4,4,4
+Trondheim,,Norway,260,260,260
+Phnom Penh,,Cambodia,,,
+Rabat,,Morocco,23,23,23
