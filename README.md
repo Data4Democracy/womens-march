@@ -17,7 +17,7 @@ The Women's March was the largest protest there has been in US History and occur
 * Do topics tweeted about differ by city?
 * What are other hashtags that people used with #womens-march?
 * From where were people tweeting about #womens-march?
-* What other data is available or can become available to answer more questions?
+* How do these topical and geographic trends relate to data from the Status of Women and issues that affect women?
 
 In conducting this research, we hope to gain new insights and understand the Women's March through data and data visualizations rather than just through news, pictures, stories, and signs.
 
@@ -64,10 +64,11 @@ If you have questions or you'd like to discuss something on your mind, reach out
 * **Twitter Data** Pulled streaming Twitter data with hashtags and created S3 output.
 * **Twitter Data from data.world** Downloaded dataset that includes tweets and locations from data.world (https://data.world/wendyhe/tweets-on-womensmarch-and-maga)
 * **Crowd Estimate Data from data.world** Downloaded dataset that includes crowd estimates and latitude longitude for each city from data.world. (https://data.world/carlvlewis/womens-marches-crowd-sizes)
+* **Crowd Estimate Data from data.world** Mapped data
 
 ## To be completed
-* **Data prep** Separate twitter data by location or by pro-March/anti-March / pro-Trump/anti-Trump.
-* **Join** Join data by city/lat-long.
-* **Visualize** Visualize data spatially or through tools for text data.
-* **Analyze** NLP on twitter data.
-* **More questions/data** Refine questions/ask more questions and find/pull other datasets.
+* **Twitter Data** Clean Twitter data. Analyze and find trends in Twitter data.
+* **Status of Women Data** Clean and prepare data. Analyze and link to crowd estimates or Twitter topics.
+* **Visualize/Analyze** Visualize data spatially or through tools for text data.
+* **More questions/data** Refine questions/ask more questions and find/pull other datasets to broaden the scope.
+* **Storytell** Report on findings and tell a story around the data.
