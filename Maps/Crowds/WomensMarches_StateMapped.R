@@ -39,41 +39,22 @@ for (i in 1:nrow(states_turnout_geocoded)) {
 states_turnout_geocoded <- states_turnout_geocoded[order(states_turnout_geocoded$Group),]
 
 # map states
+statecolors <- paste0("gray", c(48, 55, 62, 69, 76, 83, 92))
 map('state')
-map('state',region=c(states_avg_turnout$StateName[states_avg_turnout$Group==1&!is.na(states_avg_turnout$Group)]),col=c("gray48"),fill=TRUE,add=TRUE)
-map('state',region=c(states_avg_turnout$StateName[states_avg_turnout$Group==2&!is.na(states_avg_turnout$Group)]),col=c("gray55"),fill=TRUE,add=TRUE)
-map('state',region=c(states_avg_turnout$StateName[states_avg_turnout$Group==3&!is.na(states_avg_turnout$Group)]),col=c("gray62"),fill=TRUE,add=TRUE)
-map('state',region=c(states_avg_turnout$StateName[states_avg_turnout$Group==4&!is.na(states_avg_turnout$Group)]),col=c("gray69"),fill=TRUE,add=TRUE)
-map('state',region=c(states_avg_turnout$StateName[states_avg_turnout$Group==5&!is.na(states_avg_turnout$Group)]),col=c("gray76"),fill=TRUE,add=TRUE)
-map('state',region=c(states_avg_turnout$StateName[states_avg_turnout$Group==6&!is.na(states_avg_turnout$Group)]),col=c("gray83"),fill=TRUE,add=TRUE)
-map('state',region=c(states_avg_turnout$StateName[states_avg_turnout$Group==7&!is.na(states_avg_turnout$Group)]),col=c("gray92"),fill=TRUE,add=TRUE)
-points(states_turnout_geocoded$lon[states_turnout_geocoded$Group==1&!is.na(states_turnout_geocoded$Group)],
-       states_turnout_geocoded$lat[states_turnout_geocoded$Group==1&!is.na(states_turnout_geocoded$Group)],
-       pch=19,
-       col = "hot pink",cex=2.5)
-points(states_turnout_geocoded$lon[states_turnout_geocoded$Group==2&!is.na(states_turnout_geocoded$Group)],
-       states_turnout_geocoded$lat[states_turnout_geocoded$Group==2&!is.na(states_turnout_geocoded$Group)],
-       pch=19,
-       col = "hot pink",cex=2.2)
-points(states_turnout_geocoded$lon[states_turnout_geocoded$Group==3&!is.na(states_turnout_geocoded$Group)],
-       states_turnout_geocoded$lat[states_turnout_geocoded$Group==3&!is.na(states_turnout_geocoded$Group)],
-       pch=19,
-       col = "hot pink",cex=1.8)
-points(states_turnout_geocoded$lon[states_turnout_geocoded$Group==4&!is.na(states_turnout_geocoded$Group)],
-       states_turnout_geocoded$lat[states_turnout_geocoded$Group==4&!is.na(states_turnout_geocoded$Group)],
-       pch=19,
-       col = "hot pink",cex=1.4)
-points(states_turnout_geocoded$lon[states_turnout_geocoded$Group==5&!is.na(states_turnout_geocoded$Group)],
-       states_turnout_geocoded$lat[states_turnout_geocoded$Group==5&!is.na(states_turnout_geocoded$Group)],
-       pch=19,
-       col = "hot pink",cex=1)
-points(states_turnout_geocoded$lon[states_turnout_geocoded$Group==6&!is.na(states_turnout_geocoded$Group)],
-       states_turnout_geocoded$lat[states_turnout_geocoded$Group==6&!is.na(states_turnout_geocoded$Group)],
-       pch=19,
-       col = "hot pink",cex=0.6)
-points(states_turnout_geocoded$lon[states_turnout_geocoded$Group==7&!is.na(states_turnout_geocoded$Group)],
-       states_turnout_geocoded$lat[states_turnout_geocoded$Group==7&!is.na(states_turnout_geocoded$Group)],
-       pch=19,
-       col = "hot pink",cex=0.2)
+for(i in 1:7){
+  map('state',
+      region = c(states_avg_turnout$StateName[states_avg_turnout$Group == i & !is.na(states_avg_turnout$Group)]),
+      col = statecolors[i],
+      fill = TRUE,
+      add = TRUE)  
+}
+
+pointsizes <- c(2.5, 2.2, 1.8, 1.4, 1, 0.6, 0.2)
+for(i in 1:7){
+  points(states_turnout_geocoded$lon[states_turnout_geocoded$Group == i & !is.na(states_turnout_geocoded$Group)],
+         states_turnout_geocoded$lat[states_turnout_geocoded$Group == i & !is.na(states_turnout_geocoded$Group)],
+         pch = 19,
+         col = "hot pink", cex = pointsizes[i])
+}
 title(main="Women's Marches around the States")
 
