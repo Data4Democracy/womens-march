@@ -1,6 +1,6 @@
 
 # read file
-turnout_geocoded <- read.csv("CrowdEstimates_Geocoded.csv")
+turnout_geocoded <- read.csv("Data/CrowdSize/CrowdEstimates_Geocoded.csv")
 
 # map data
 library(maps)
@@ -52,7 +52,7 @@ points(turnout_geocoded$lon[turnout_geocoded$Group==7&!is.na(turnout_geocoded$Gr
 title(main="Womens' Marches around the World")
 
 # turnout by state
-turnout <- read.csv("CrowdEstimates.csv")
+turnout <- read.csv("Data/CrowdSize/CrowdEstimates.csv")
 states <- turnout[1:517,]
 states_avg_turnout <- aggregate(states$Average[!is.na(states$Average)],by=list(states$State[!is.na(states$Average)]),sum)
 names(states_avg_turnout) <- c("State","Average")

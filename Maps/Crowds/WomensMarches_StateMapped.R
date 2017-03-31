@@ -1,6 +1,6 @@
 
 # read file
-turnout_geocoded <- read.csv("CrowdEstimates_Geocoded.csv")
+turnout_geocoded <- read.csv("Data/CrowdSize/CrowdEstimates_Geocoded.csv")
 
 # map data
 library(maps)
