@@ -19,6 +19,8 @@ The Women's March was the largest protest there has been in US History and occur
 * From where were people tweeting about #womens-march?
 * How do these topical and geographic trends relate to data from the Status of Women and issues that affect women?
 
+![map](output/WomensMarch-StateMap.svg)
+
 In conducting this research, we hope to gain new insights and understand the Women's March through data and data visualizations rather than just through news, pictures, stories, and signs.
 
 ## Getting started
@@ -45,11 +47,8 @@ Take a look at this list to get an idea of the tools and knowledge we're leverag
 To download the code and data inside this repository, you'll need [Git](https://git-scm.com/). Once you've got the necessary tools, open a command prompt and run `git clone https://github.com/data4democracy/womens-march.git` to start downloading your own working copy. Once the command finishes, you should see a new `womens-march` directory in the current directory's file listing. That's where you'll find it!
 
 ### Project structure (or, "how do I find `thing`?")
-* **Source code and notebooks**: For now, you'll find these in the repository's root directory. This will probably change in the future as we accumulate more files.
+* **Source code**: all analytical scripts are called from `integrate.R` in the root directory
 * **Data files**: All data files are located in the `/data` directory. At the moment, there is no further hierarchy beyond this; again, as we accumulate more data, this is likely to change.
-
-### Performing data analysis
-There are many ways to analyze the data in this repository, but "notebook" formats like [Jupyter](http://jupyter.org/install.html) and [R Markdown](http://rmarkdown.rstudio.com/r_notebooks.html) are the most common. The setup process for these tools is in-depth enough to be outside the scope of this README, so please refer to documentation at the aforementioned links if necessary. If something isn't working quite right for you, that's okay! Continue reading to see how you can reach out for assistance.
 
 ### Talking to people/asking for help
 If you have questions or you'd like to discuss something on your mind, reach out to us in the [#womens-march](https://datafordemocracy.slack.com/messages/womens-march/) channel on Slack. Project leads and maintainers are available for troubleshooting, brainstorming, mentorship, and just about anything else you might need.
