@@ -1,26 +1,13 @@
+# read file and create Groups variable
+turnout_geocoded <- read.csv("Data/CrowdSize/CrowdEstimates_Geocoded.csv") %>%
+  mutate(Group = 8 - as.numeric(cut(Average, 
+                                    breaks = c(0, 10, 100, 200, 300, 400, 500, 10000) * 1000,
+                                    right = FALSE))) %>%
+  arrange(Group)
 
-# read file
-turnout_geocoded <- read.csv("Data/CrowdSize/CrowdEstimates_Geocoded.csv")
-
-# map data
-library(maps)
-library(mapdata)
-library(ggplot2)
-
-# groups
-for (i in 1:nrow(turnout_geocoded)) {
-  turnout_geocoded$Group[i] <- ifelse(turnout_geocoded$Average[i] >= 500000, 1,
-                                        ifelse(turnout_geocoded$Average[i]<500000&turnout_geocoded$Average[i]>=400000,2,
-                                               ifelse(turnout_geocoded$Average[i]<400000&turnout_geocoded$Average[i]>=300000,3,
-                                                      ifelse(turnout_geocoded$Average[i]<300000&turnout_geocoded$Average[i]>=200000,4,
-                                                             ifelse(turnout_geocoded$Average[i]<200000&turnout_geocoded$Average[i]>=100000,5,
-                                                                    ifelse(turnout_geocoded$Average[i]<100000&turnout_geocoded$Average[i]>=10000,6,
-                                                                           ifelse(turnout_geocoded$Average[i]<10000,7,0)))))))
-}
-turnout_geocoded <- turnout_geocoded[order(turnout_geocoded$Group),]
-
+svg("output/WomensMarch-WorldMap.svg", 10, 7)
 # world map
-map('worldHires')
+maps::map('worldHires')
 
 pointsizes <- c(1.8, 1.5, 1, 1.2, 0.9, 0.6, 0.3)
 for(i in 1:7){
@@ -30,4 +17,4 @@ for(i in 1:7){
          col = "hot pink", cex = pointsizes[i])
 }
 title(main = "Womens' Marches around the World")
-
+dev.off()
