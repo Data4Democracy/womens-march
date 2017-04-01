@@ -9,7 +9,7 @@ svg("output/WomensMarch-WorldMap.svg", 10, 7)
 # world map
 maps::map('worldHires')
 
-pointsizes <- c(1.8, 1.5, 1, 1.2, 0.9, 0.6, 0.3)
+pointsizes <- c(1.8, 1.5, 1.3, 1.2, 0.9, 0.6, 0.3)
 for(i in 1:7){
   points(turnout_geocoded$lon[turnout_geocoded$Group == i & !is.na(turnout_geocoded$Group)],
          turnout_geocoded$lat[turnout_geocoded$Group == i & !is.na(turnout_geocoded$Group)],
