@@ -1,9 +1,3 @@
-<!---
-The file README.html is built by the ./integrate.R script.  
-Edit README.md, not README.html
--->
-
-
 # womens-march
 This is a place to join and analyze data related to the Women's Marches. Potentially this can lead to further joining and analysis of data on resistance to Trump and support for rights or issues that Trump opposes, as the Scientists' March on Washington (and possibly others) are discussed about and planned.
 
@@ -25,7 +19,7 @@ The Women's March was the largest protest there has been in US History and occur
 * From where were people tweeting about #womens-march?
 * How do these topical and geographic trends relate to data from the Status of Women and issues that affect women?
 
-![map](output/WomensMarch-StateMap.svg)
+![map](blob/master/output/WomensMarch-StateMap.svg)
 
 In conducting this research, we hope to gain new insights and understand the Women's March through data and data visualizations rather than just through news, pictures, stories, and signs.
 
