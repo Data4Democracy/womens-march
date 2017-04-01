@@ -1,3 +1,9 @@
+<!---
+The file README.html is built by the ./integrate.R script.  
+Edit README.md, not README.html
+-->
+
+
 # womens-march
 This is a place to join and analyze data related to the Women's Marches. Potentially this can lead to further joining and analysis of data on resistance to Trump and support for rights or issues that Trump opposes, as the Scientists' March on Washington (and possibly others) are discussed about and planned.
 
