@@ -19,8 +19,6 @@ The Women's March was the largest protest there has been in US History and occur
 * From where were people tweeting about #womens-march?
 * How do these topical and geographic trends relate to data from the Status of Women and issues that affect women?
 
-<img src = 'blob/master/output/WomensMarch-StateMap.svg'>
-
 In conducting this research, we hope to gain new insights and understand the Women's March through data and data visualizations rather than just through news, pictures, stories, and signs.
 
 ## Getting started
